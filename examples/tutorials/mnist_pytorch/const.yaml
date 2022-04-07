@@ -17,6 +17,7 @@ searcher:
 entrypoint: model_def:MNistTrial
 environment:
   environment_variables:
+    - DET_MASTER=172.29.57.233
     - HTTP_PROXY=http://172.29.6.250:8080
     - HTTPS_PROXY=http://172.29.6.250:8080
     - FTP_PROXY=http://172.29.6.250:8080
