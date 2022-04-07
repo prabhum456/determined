@@ -21,8 +21,8 @@ environment:
     - HTTP_PROXY=http://172.29.6.250:8080
     - HTTPS_PROXY=http://172.29.6.250:8080
     - FTP_PROXY=http://172.29.6.250:8080
-    - NO_PROXY=10.104.41.208,10.110.88.18,172.29.57.233
+    - NO_PROXY=10.104.41.208,10.110.88.18,172.29.57.233,172.29.57.112,glhc-cp-training-0.glhc-hpe.local
     - http_proxy=http://172.29.6.250:8080
     - https_proxy=http://172.29.6.250:8080
     - ftp_proxy=http://172.29.6.250:8080
-    - no_proxy=10.104.41.208,10.110.88.18,172.29.57.233
+    - no_proxy=10.104.41.208,10.110.88.18,172.29.57.233,172.29.57.112,glhc-cp-training-0.glhc-hpe.local
