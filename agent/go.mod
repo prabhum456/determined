@@ -14,7 +14,7 @@ require (
 	github.com/golang-collections/collections v0.0.0-20130729185459-604e922904d3
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/websocket v1.4.2
-	github.com/labstack/echo/v4 v4.6.0
+	github.com/labstack/echo/v4 v4.9.0
 	github.com/pkg/errors v0.9.1
 	github.com/shirou/gopsutil v2.19.9+incompatible
 	github.com/sirupsen/logrus v1.8.1
@@ -23,8 +23,6 @@ require (
 	golang.org/x/sys v0.0.0-20220319134239-a9b59b0215f8
 	gotest.tools v2.2.0+incompatible
 )
-
-require github.com/determined-ai/determined/proto v0.0.0-00010101000000-000000000000
 
 require (
 	cloud.google.com/go v0.94.0 // indirect
