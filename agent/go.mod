@@ -20,11 +20,9 @@ require (
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/sys v0.0.0-20220319134239-a9b59b0215f8
+	golang.org/x/sys v0.1.0
 	gotest.tools v2.2.0+incompatible
 )
-
-require github.com/determined-ai/determined/proto v0.0.0-00010101000000-000000000000
 
 require (
 	cloud.google.com/go v0.94.0 // indirect
